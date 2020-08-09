@@ -2,5 +2,3 @@ This is just a test.
 How are you?
 
 zmiany zmiany
-
-Dodanie czegoś nowego
